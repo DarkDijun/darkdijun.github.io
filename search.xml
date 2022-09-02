@@ -11,6 +11,18 @@
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="English"><a href="#English" class="headerlink" title="English"></a>English</h1><p>Life is a rhythm</p><p>There must be light and shadow</p><p>Left is right</p><p>Have a sunny with snow</p><p>Taste is contained in this fierce and constant twists and turns</p><p>And the world we live in</p><p>It’s more like a cycle</p><p>In the time when it’s not being noticed</p><p>In the change of seasons</p><p>In the stars where the sun rises and the moon sets</p><p>If every corner of the earth were filled with light</p><p>Who needs stars</p><p>Who would look away at night</p><p>Looking for distant security</p><p>When tomorrow is today</p><p>Today is yesterday</p><p>And finally become a day that no longer matters in my memory</p><p>Don’t talk about how things have changed</p><p>Time always learns not to wait</p><p>There is only now to cherish</p><hr><h1 id="Chinese"><a href="#Chinese" class="headerlink" title="Chinese"></a>Chinese</h1><p>生活是种律动</p><p>须有光有影</p><p>有左有右</p><p>有晴有雪</p><p>滋味就含在这猛而不变的曲折里</p><p>而我们生活的世界</p><p>更像是一种轮回</p><p>在不被注意的时间里</p><p>在四季的变化中</p><p>也在这日升月落的繁星里</p><p>如果大地的每个角落都充满了光明</p><p>谁还需要星星</p><p>谁还会在夜里遥望</p><p>寻找遥远的安稳</p><p>当明天变成今天</p><p>今天成为昨天</p><p>最后成为记忆里不再重要的一天</p><p>不要再谈事过境迁</p><p>时间它始终学不会等待</p><p>能珍惜的只有现在​</p><hr><h1 id="End"><a href="#End" class="headerlink" title="End"></a>End</h1><p>Let’s call it a day and wish you a better day tomorrow</p><p>Good night</p>]]></content>
       
       
+      <categories>
+          
+          <category> Everyday life </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Poems share </tag>
+            
+        </tags>
       
     </entry>
     
@@ -24,6 +36,18 @@
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
+      <categories>
+          
+          <category> Everyday life </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hello world </tag>
+            
+        </tags>
       
     </entry>
     
